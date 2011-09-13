@@ -9,8 +9,8 @@ Gem::Specification.new do |s|
   s.authors     = ["Paul Sturgess"]
   s.email       = ["paulsturgess@gmail.com"]
   s.homepage    = "https://github.com/paulsturgess/brainz_releases"
-  s.summary     = "Provides a ruby inteface for extracting the releases for an artist from MusicBrainz"
-  s.description = "Uses the MusicBrainz XML Web Service (version 2) to extract the releases for an artist and turn them into nice ruby objects."
+  s.summary     = "Provides a ruby interface for extracting the releases for an artist from MusicBrainz"
+  s.description = "Uses the MusicBrainz XML Web Service (version 2) to extract the releases for an artist and turns them into nice ruby objects."
 
   s.rubyforge_project = "brainz_releases"
 
