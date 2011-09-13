@@ -9,7 +9,7 @@ Uses the {MusicBrainz XML Web Service (version 2)}[http://musicbrainz.org/doc/XM
 Example:
 
   require 'rubygems'
-  require 'music_brainz'
+  require 'brainz_releases'
 
   releases = BrainzReleases.search do |search|
     search.user_agent = "YourAppName/x.x" # Required – A string to identify your requests containing your app name and version number (this is required by the MusicBrainz API)
