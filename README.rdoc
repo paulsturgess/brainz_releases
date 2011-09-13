@@ -1,0 +1,46 @@
+= BrainzReleases
+
+Uses the {MusicBrainz XML Web Service (version 2)}[http://musicbrainz.org/doc/XML_Web_Service/Version_2] to extract the releases for an artist and turn them into nice ruby objects.
+
+{Gem Documentation}[http://rubydoc.info/github/paulsturgess/musicbrainz/master/]
+
+== Usage
+
+Example:
+
+  require 'rubygems'
+  require 'music_brainz'
+
+  releases = BrainzReleases.search do |search|
+    search.user_agent = "YourAppName/x.x" # Required – A string to identify your requests containing your app name and version number (this is required by the MusicBrainz API)
+    search.mbid = "9f9953f0-68bb-4ce3-aace-2f44c87f0aa3" # MusicBrainz artist ID
+    search.name = "Bonobo" # Only necessary if you don't know the MusicBrainz ID
+    search.start_date = Date.parse("1/1/2011") # Optional – defaults to 1 month ago
+    search.end_date = Date.parse("5/5/2011") # Optional – defaults to 1 month in the future
+  end
+  
+  release = releases.first
+  
+  # A BrainzReleases::Release object has a number of methods to easily access the attributes returned by the MusicBrainz api
+  # For example...
+  release.title            # => "Fi"
+  release.date_available   # => "2005-02-08"
+  release.release_type     # => "Album"
+  release.label            # => "Mush Records"
+  release.format           # => "CD"
+  release.track_count      # => "17"
+  release.country          # => "US"
+  release.mbid             # => "4a46ee61-75b5-4e2b-ac2e-81ef2ccec0f9"
+  release.artist           # => "Bibio"
+  release.artist_mbid      # => "9f9953f0-68bb-4ce3-aace-2f44c87f0aa3"
+
+
+== Warnings
+
+The MusicBrainz Web Service allows only ONE web service request per second. This gem DOES NOT implement any time based delay and takes no responsibility if you abuse the request limit.
+
+{MusicBrainz API documentation}[http://musicbrainz.org/doc/XML_Web_Service/Version_2]
+
+== Installation
+
+  gem install brainz_releases

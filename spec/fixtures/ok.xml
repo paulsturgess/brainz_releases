@@ -1,0 +1,724 @@
+<metadata xmlns="http://musicbrainz.org/ns/mmd-2.0#" xmlns:ext="http://musicbrainz.org/ns/ext#-2.0">
+  <release-list offset="0" count="20">
+    <release ext:score="100" id="4a46ee61-75b5-4e2b-ac2e-81ef2ccec0f9">
+      <title>Fi</title>
+      <status>Official</status>
+      <text-representation>
+        <language>eng</language>
+        <script>Latn</script>
+      </text-representation>
+      <artist-credit>
+        <name-credit>
+          <artist id="9f9953f0-68bb-4ce3-aace-2f44c87f0aa3">
+            <name>Bibio</name>
+            <sort-name>Bibio</sort-name>
+          </artist>
+        </name-credit>
+      </artist-credit>
+      <release-group type="Album" id="02f2abd4-155b-36e8-abe8-dc99d3083958"/>
+      <date>2005-02-08</date>
+      <country>US</country>
+      <barcode>663405123424</barcode>
+      <asin>B0006ZXJ8O</asin>
+      <label-info-list>
+        <label-info>
+          <catalog-number>MH-234</catalog-number>
+          <label id="05e6e753-0f22-438d-9cdd-cdc57eb56433">
+            <name>Mush Records</name>
+          </label>
+        </label-info>
+      </label-info-list>
+      <medium-list count="1">
+        <track-count>17</track-count>
+        <medium>
+          <format>CD</format>
+          <disc-list count="1"/>
+          <track-list count="17"/>
+        </medium>
+      </medium-list>
+    </release>
+    <release ext:score="100" id="40504860-1d87-4632-adb1-67bb94f928ed">
+      <title>Hand Cranked</title>
+      <status>Official</status>
+      <text-representation>
+        <language>eng</language>
+        <script>Latn</script>
+      </text-representation>
+      <artist-credit>
+        <name-credit>
+          <artist id="9f9953f0-68bb-4ce3-aace-2f44c87f0aa3">
+            <name>Bibio</name>
+            <sort-name>Bibio</sort-name>
+          </artist>
+        </name-credit>
+      </artist-credit>
+      <release-group type="Album" id="662f6134-c6e9-3869-ad67-3bdee1bfeb1c"/>
+      <date>2006-03-07</date>
+      <country>US</country>
+      <label-info-list>
+        <label-info>
+          <catalog-number>MH-244</catalog-number>
+          <label id="05e6e753-0f22-438d-9cdd-cdc57eb56433">
+            <name>Mush Records</name>
+          </label>
+        </label-info>
+      </label-info-list>
+      <medium-list count="1">
+        <track-count>14</track-count>
+        <medium>
+          <format>CD</format>
+          <disc-list count="1"/>
+          <track-list count="14"/>
+        </medium>
+      </medium-list>
+    </release>
+    <release ext:score="100" id="835c99e1-e7ac-4ee1-b294-083113921fe8">
+      <title>Sheila Sets Sail</title>
+      <status>Official</status>
+      <text-representation>
+        <language>eng</language>
+        <script>Latn</script>
+      </text-representation>
+      <artist-credit>
+        <name-credit>
+          <artist id="9f9953f0-68bb-4ce3-aace-2f44c87f0aa3">
+            <name>Bibio</name>
+            <sort-name>Bibio</sort-name>
+          </artist>
+        </name-credit>
+      </artist-credit>
+      <release-group type="Single" id="12dd993b-2d1a-37fc-b32e-0cf5b7717533"/>
+      <date>2006</date>
+      <country>GB</country>
+      <medium-list count="1">
+        <track-count>2</track-count>
+        <medium>
+          <disc-list count="0"/>
+          <track-list count="2"/>
+        </medium>
+      </medium-list>
+    </release>
+    <release ext:score="100" id="f414d3cc-c6f3-44bc-8e43-cef73f289d3c">
+      <title>Vignetting the Compost</title>
+      <status>Official</status>
+      <text-representation>
+        <language>eng</language>
+        <script>Latn</script>
+      </text-representation>
+      <artist-credit>
+        <name-credit>
+          <artist id="9f9953f0-68bb-4ce3-aace-2f44c87f0aa3">
+            <name>Bibio</name>
+            <sort-name>Bibio</sort-name>
+          </artist>
+        </name-credit>
+      </artist-credit>
+      <release-group type="Album" id="1860599e-1a1e-3a42-8fdc-eb7af9b9e190"/>
+      <date>2009-02-03</date>
+      <country>US</country>
+      <barcode>663405126326</barcode>
+      <asin>B001NJY5LW</asin>
+      <label-info-list>
+        <label-info>
+          <catalog-number>MH-263</catalog-number>
+          <label id="05e6e753-0f22-438d-9cdd-cdc57eb56433">
+            <name>Mush Records</name>
+          </label>
+        </label-info>
+      </label-info-list>
+      <medium-list count="1">
+        <track-count>16</track-count>
+        <medium>
+          <format>CD</format>
+          <disc-list count="1"/>
+          <track-list count="16"/>
+        </medium>
+      </medium-list>
+    </release>
+    <release ext:score="100" id="a7bf4f6b-babb-48ea-aaf3-d17538137654">
+      <title>Ovals and Emeralds</title>
+      <status>Official</status>
+      <text-representation>
+        <language>eng</language>
+        <script>Latn</script>
+      </text-representation>
+      <artist-credit>
+        <name-credit>
+          <artist id="9f9953f0-68bb-4ce3-aace-2f44c87f0aa3">
+            <name>Bibio</name>
+            <sort-name>Bibio</sort-name>
+          </artist>
+        </name-credit>
+      </artist-credit>
+      <release-group type="EP" id="9c5b0bb0-d421-366f-929a-19a8b9850fc8"/>
+      <date>2009-03-03</date>
+      <country>XW</country>
+      <label-info-list>
+        <label-info>
+          <catalog-number>MH-042</catalog-number>
+          <label id="05e6e753-0f22-438d-9cdd-cdc57eb56433">
+            <name>Mush Records</name>
+          </label>
+        </label-info>
+      </label-info-list>
+      <medium-list count="1">
+        <track-count>6</track-count>
+        <medium>
+          <format>Digital Media</format>
+          <disc-list count="0"/>
+          <track-list count="6"/>
+        </medium>
+      </medium-list>
+    </release>
+    <release ext:score="100" id="244d8104-820b-4fc3-9ed6-336c3a317d5c">
+      <title>Ambivalence Avenue</title>
+      <status>Official</status>
+      <text-representation>
+        <language>eng</language>
+        <script>Latn</script>
+      </text-representation>
+      <artist-credit>
+        <name-credit>
+          <artist id="9f9953f0-68bb-4ce3-aace-2f44c87f0aa3">
+            <name>Bibio</name>
+            <sort-name>Bibio</sort-name>
+          </artist>
+        </name-credit>
+      </artist-credit>
+      <release-group type="Album" id="a4c6be15-bfc4-4078-b80b-d9f03a4049b1"/>
+      <date>2009-06-22</date>
+      <country>GB</country>
+      <barcode>801061017729</barcode>
+      <asin>B00292SQNA</asin>
+      <label-info-list>
+        <label-info>
+          <catalog-number>WARPCD177</catalog-number>
+          <label id="46f0f4cd-8aab-4b33-b698-f459faf64190">
+            <name>Warp Records</name>
+          </label>
+        </label-info>
+      </label-info-list>
+      <medium-list count="1">
+        <track-count>12</track-count>
+        <medium>
+          <format>CD</format>
+          <disc-list count="1"/>
+          <track-list count="12"/>
+        </medium>
+      </medium-list>
+    </release>
+    <release ext:score="100" id="e479ca69-79b4-40f0-8e44-c09a065e3136">
+      <title>Ambivalence Avenue / Fire Ant</title>
+      <status>Official</status>
+      <text-representation>
+        <language>eng</language>
+        <script>Latn</script>
+      </text-representation>
+      <artist-credit>
+        <name-credit>
+          <artist id="9f9953f0-68bb-4ce3-aace-2f44c87f0aa3">
+            <name>Bibio</name>
+            <sort-name>Bibio</sort-name>
+          </artist>
+        </name-credit>
+      </artist-credit>
+      <release-group type="Single" id="67cd2404-7a3e-4cf8-b6f0-4f7eb2f489e7"/>
+      <date>2009-06-08</date>
+      <country>GB</country>
+      <barcode>0801061927974</barcode>
+      <asin>B002A03J1A</asin>
+      <label-info-list>
+        <label-info>
+          <catalog-number>7WAP279</catalog-number>
+          <label id="46f0f4cd-8aab-4b33-b698-f459faf64190">
+            <name>Warp Records</name>
+          </label>
+        </label-info>
+      </label-info-list>
+      <medium-list count="1">
+        <track-count>2</track-count>
+        <medium>
+          <format>Vinyl</format>
+          <disc-list count="0"/>
+          <track-list count="2"/>
+        </medium>
+      </medium-list>
+    </release>
+    <release ext:score="100" id="d542e30e-b50e-4f48-b622-18471f4641b1">
+      <title>The Apple and The Tooth</title>
+      <status>Official</status>
+      <text-representation>
+        <language>eng</language>
+        <script>Latn</script>
+      </text-representation>
+      <artist-credit>
+        <name-credit>
+          <artist id="9f9953f0-68bb-4ce3-aace-2f44c87f0aa3">
+            <name>Bibio</name>
+            <sort-name>Bibio</sort-name>
+          </artist>
+        </name-credit>
+      </artist-credit>
+      <release-group type="EP" id="54494aea-4596-464c-b3fa-e984b13b59b7"/>
+      <date>2009-11-10</date>
+      <country>US</country>
+      <barcode>0801061019020</barcode>
+      <asin>B002QXIO20</asin>
+      <label-info-list>
+        <label-info>
+          <catalog-number>WARPCD190</catalog-number>
+          <label id="46f0f4cd-8aab-4b33-b698-f459faf64190">
+            <name>Warp Records</name>
+          </label>
+        </label-info>
+      </label-info-list>
+      <medium-list count="1">
+        <track-count>12</track-count>
+        <medium>
+          <format>CD</format>
+          <disc-list count="1"/>
+          <track-list count="12"/>
+        </medium>
+      </medium-list>
+    </release>
+    <release ext:score="100" id="23df32ab-b08a-39b7-8fbb-d33a7f1bc1d6">
+      <title>The Apple and The Tooth</title>
+      <status>Official</status>
+      <text-representation>
+        <language>eng</language>
+        <script>Latn</script>
+      </text-representation>
+      <artist-credit>
+        <name-credit>
+          <artist id="9f9953f0-68bb-4ce3-aace-2f44c87f0aa3">
+            <name>Bibio</name>
+            <sort-name>Bibio</sort-name>
+          </artist>
+        </name-credit>
+      </artist-credit>
+      <release-group type="EP" id="54494aea-4596-464c-b3fa-e984b13b59b7"/>
+      <date>2009-11-09</date>
+      <country>GB</country>
+      <barcode>0801061019020</barcode>
+      <asin>B002QXIO20</asin>
+      <label-info-list>
+        <label-info>
+          <catalog-number>WARPCD190</catalog-number>
+          <label id="46f0f4cd-8aab-4b33-b698-f459faf64190">
+            <name>Warp Records</name>
+          </label>
+        </label-info>
+      </label-info-list>
+      <medium-list count="1">
+        <track-count>12</track-count>
+        <medium>
+          <format>CD</format>
+          <disc-list count="1"/>
+          <track-list count="12"/>
+        </medium>
+      </medium-list>
+    </release>
+    <release ext:score="100" id="f98ddb9c-98a1-3695-ace2-7be211730663">
+      <title>The Apple and The Tooth</title>
+      <status>Official</status>
+      <text-representation>
+        <language>eng</language>
+        <script>Latn</script>
+      </text-representation>
+      <artist-credit>
+        <name-credit>
+          <artist id="9f9953f0-68bb-4ce3-aace-2f44c87f0aa3">
+            <name>Bibio</name>
+            <sort-name>Bibio</sort-name>
+          </artist>
+        </name-credit>
+      </artist-credit>
+      <release-group type="EP" id="54494aea-4596-464c-b3fa-e984b13b59b7"/>
+      <date>2009-11-09</date>
+      <country>GB</country>
+      <barcode>0801061019013</barcode>
+      <label-info-list>
+        <label-info>
+          <catalog-number>WARPLP190</catalog-number>
+          <label id="46f0f4cd-8aab-4b33-b698-f459faf64190">
+            <name>Warp Records</name>
+          </label>
+        </label-info>
+      </label-info-list>
+      <medium-list count="1">
+        <track-count>12</track-count>
+        <medium>
+          <format>Vinyl</format>
+          <disc-list count="0"/>
+          <track-list count="12"/>
+        </medium>
+      </medium-list>
+    </release>
+    <release ext:score="100" id="8ac778dd-18f8-3593-9475-5315407f05f3">
+      <title>The Apple and The Tooth</title>
+      <status>Official</status>
+      <text-representation>
+        <language>eng</language>
+        <script>Latn</script>
+      </text-representation>
+      <artist-credit>
+        <name-credit>
+          <artist id="9f9953f0-68bb-4ce3-aace-2f44c87f0aa3">
+            <name>Bibio</name>
+            <sort-name>Bibio</sort-name>
+          </artist>
+        </name-credit>
+      </artist-credit>
+      <release-group type="EP" id="54494aea-4596-464c-b3fa-e984b13b59b7"/>
+      <date>2009-11-10</date>
+      <country>US</country>
+      <barcode>0801061019013</barcode>
+      <label-info-list>
+        <label-info>
+          <catalog-number>WARPLP190</catalog-number>
+          <label id="46f0f4cd-8aab-4b33-b698-f459faf64190">
+            <name>Warp Records</name>
+          </label>
+        </label-info>
+      </label-info-list>
+      <medium-list count="1">
+        <track-count>12</track-count>
+        <medium>
+          <format>Vinyl</format>
+          <disc-list count="0"/>
+          <track-list count="12"/>
+        </medium>
+      </medium-list>
+    </release>
+    <release ext:score="100" id="a1c72efd-ec9d-40c3-8331-ad10077a152f">
+      <title>Mind Bokeh</title>
+      <status>Official</status>
+      <text-representation>
+        <language>eng</language>
+        <script>Latn</script>
+      </text-representation>
+      <artist-credit>
+        <name-credit>
+          <artist id="9f9953f0-68bb-4ce3-aace-2f44c87f0aa3">
+            <name>Bibio</name>
+            <sort-name>Bibio</sort-name>
+          </artist>
+        </name-credit>
+      </artist-credit>
+      <release-group type="Album" id="2f155de9-53b1-4167-b206-ccbaffcece50"/>
+      <date>2011-04-04</date>
+      <country>GB</country>
+      <barcode>801061020927</barcode>
+      <asin>B004IMDCJC</asin>
+      <label-info-list>
+        <label-info>
+          <catalog-number>WARPCD209</catalog-number>
+          <label id="46f0f4cd-8aab-4b33-b698-f459faf64190">
+            <name>Warp Records</name>
+          </label>
+        </label-info>
+      </label-info-list>
+      <medium-list count="1">
+        <track-count>12</track-count>
+        <medium>
+          <format>CD</format>
+          <disc-list count="1"/>
+          <track-list count="12"/>
+        </medium>
+      </medium-list>
+    </release>
+    <release ext:score="100" id="d548c96b-0852-3933-b8cd-f7e5b0407df9">
+      <title>Mind Bokeh</title>
+      <status>Official</status>
+      <text-representation>
+        <language>eng</language>
+        <script>Latn</script>
+      </text-representation>
+      <artist-credit>
+        <name-credit>
+          <artist id="9f9953f0-68bb-4ce3-aace-2f44c87f0aa3">
+            <name>Bibio</name>
+            <sort-name>Bibio</sort-name>
+          </artist>
+        </name-credit>
+      </artist-credit>
+      <release-group type="Album" id="2f155de9-53b1-4167-b206-ccbaffcece50"/>
+      <date>2011-03-29</date>
+      <country>US</country>
+      <barcode>801061020927</barcode>
+      <asin>B004IMDCJC</asin>
+      <label-info-list>
+        <label-info>
+          <catalog-number>WARPCD209</catalog-number>
+          <label id="46f0f4cd-8aab-4b33-b698-f459faf64190">
+            <name>Warp Records</name>
+          </label>
+        </label-info>
+      </label-info-list>
+      <medium-list count="1">
+        <track-count>12</track-count>
+        <medium>
+          <format>CD</format>
+          <disc-list count="1"/>
+          <track-list count="12"/>
+        </medium>
+      </medium-list>
+    </release>
+    <release ext:score="100" id="d9990af1-9604-3324-bf90-9f6ea46a3b02">
+      <title>Mind Bokeh</title>
+      <status>Official</status>
+      <text-representation>
+        <language>eng</language>
+        <script>Latn</script>
+      </text-representation>
+      <artist-credit>
+        <name-credit>
+          <artist id="9f9953f0-68bb-4ce3-aace-2f44c87f0aa3">
+            <name>Bibio</name>
+            <sort-name>Bibio</sort-name>
+          </artist>
+        </name-credit>
+      </artist-credit>
+      <release-group type="Album" id="2f155de9-53b1-4167-b206-ccbaffcece50"/>
+      <date>2011-03-29</date>
+      <country>US</country>
+      <label-info-list>
+        <label-info>
+          <label id="46f0f4cd-8aab-4b33-b698-f459faf64190">
+            <name>Warp Records</name>
+          </label>
+        </label-info>
+      </label-info-list>
+      <medium-list count="1">
+        <track-count>12</track-count>
+        <medium>
+          <format>Digital Media</format>
+          <disc-list count="0"/>
+          <track-list count="12"/>
+        </medium>
+      </medium-list>
+    </release>
+    <release ext:score="100" id="35a6a938-b84c-3239-851e-3ded19b79cff">
+      <title>Mind Bokeh</title>
+      <status>Official</status>
+      <text-representation>
+        <language>eng</language>
+        <script>Latn</script>
+      </text-representation>
+      <artist-credit>
+        <name-credit>
+          <artist id="9f9953f0-68bb-4ce3-aace-2f44c87f0aa3">
+            <name>Bibio</name>
+            <sort-name>Bibio</sort-name>
+          </artist>
+        </name-credit>
+      </artist-credit>
+      <release-group type="Album" id="2f155de9-53b1-4167-b206-ccbaffcece50"/>
+      <date>2011-04-04</date>
+      <country>XW</country>
+      <label-info-list>
+        <label-info>
+          <label id="46f0f4cd-8aab-4b33-b698-f459faf64190">
+            <name>Warp Records</name>
+          </label>
+        </label-info>
+      </label-info-list>
+      <medium-list count="1">
+        <track-count>12</track-count>
+        <medium>
+          <format>Digital Media</format>
+          <disc-list count="0"/>
+          <track-list count="12"/>
+        </medium>
+      </medium-list>
+    </release>
+    <release ext:score="100" id="039f78b8-6c06-4b8f-9451-93a2aba37c0c">
+      <title>Excuses</title>
+      <status>Official</status>
+      <text-representation>
+        <language>eng</language>
+        <script>Latn</script>
+      </text-representation>
+      <artist-credit>
+        <name-credit>
+          <artist id="9f9953f0-68bb-4ce3-aace-2f44c87f0aa3">
+            <name>Bibio</name>
+            <sort-name>Bibio</sort-name>
+          </artist>
+        </name-credit>
+      </artist-credit>
+      <release-group type="Single" id="9c1db9c1-2b92-419a-9fc2-3db348f8d524"/>
+      <date>2011-02-28</date>
+      <country>GB</country>
+      <barcode>0801061931414</barcode>
+      <asin>B004MCH0SC</asin>
+      <label-info-list>
+        <label-info>
+          <catalog-number>10WAP314</catalog-number>
+          <label id="46f0f4cd-8aab-4b33-b698-f459faf64190">
+            <name>Warp Records</name>
+          </label>
+        </label-info>
+      </label-info-list>
+      <medium-list count="1">
+        <track-count>2</track-count>
+        <medium>
+          <format>Vinyl</format>
+          <disc-list count="0"/>
+          <track-list count="2"/>
+        </medium>
+      </medium-list>
+    </release>
+    <release ext:score="100" id="0e5c7946-9b8f-457c-802d-a3154b3caae7">
+      <title>Willenhall / Baskerville Grinch</title>
+      <status>Official</status>
+      <text-representation>
+        <language>eng</language>
+        <script>Latn</script>
+      </text-representation>
+      <artist-credit>
+        <name-credit joinphrase=" / ">
+          <artist id="9f9953f0-68bb-4ce3-aace-2f44c87f0aa3">
+            <name>Bibio</name>
+            <sort-name>Bibio</sort-name>
+          </artist>
+        </name-credit>
+        <name-credit>
+          <name>Clark</name>
+          <artist id="5d0c202c-e30f-40c4-abf5-c0007af0d1cc">
+            <name>Chris Clark</name>
+            <sort-name>Clark, Chris</sort-name>
+            <disambiguation>of Warp Records</disambiguation>
+          </artist>
+        </name-credit>
+      </artist-credit>
+      <release-group type="Single" id="5fcfd2af-4a90-4eb8-84df-5cdb7c14d90d"/>
+      <date>2011-04-16</date>
+      <country>GB</country>
+      <barcode>801061931810</barcode>
+      <label-info-list>
+        <label-info>
+          <catalog-number>WAP318</catalog-number>
+          <label id="46f0f4cd-8aab-4b33-b698-f459faf64190">
+            <name>Warp Records</name>
+          </label>
+        </label-info>
+      </label-info-list>
+      <medium-list count="1">
+        <track-count>2</track-count>
+        <medium>
+          <format>Vinyl</format>
+          <disc-list count="0"/>
+          <track-list count="2"/>
+        </medium>
+      </medium-list>
+    </release>
+    <release ext:score="100" id="eb980750-8eb2-4ac3-8328-0f0ca8d9e414">
+      <title>K Is for Kelson</title>
+      <status>Official</status>
+      <text-representation>
+        <language>eng</language>
+        <script>Latn</script>
+      </text-representation>
+      <artist-credit>
+        <name-credit>
+          <artist id="9f9953f0-68bb-4ce3-aace-2f44c87f0aa3">
+            <name>Bibio</name>
+            <sort-name>Bibio</sort-name>
+          </artist>
+        </name-credit>
+      </artist-credit>
+      <release-group type="Single" id="abeec470-b316-4795-a2df-4f4e8d7bd5eb"/>
+      <date>2011-05-23</date>
+      <country>GB</country>
+      <asin>B004XKBD5E</asin>
+      <label-info-list>
+        <label-info>
+          <catalog-number>WAP316</catalog-number>
+          <label id="46f0f4cd-8aab-4b33-b698-f459faf64190">
+            <name>Warp Records</name>
+          </label>
+        </label-info>
+      </label-info-list>
+      <medium-list count="1">
+        <track-count>4</track-count>
+        <medium>
+          <format>12" Vinyl</format>
+          <disc-list count="0"/>
+          <track-list count="4"/>
+        </medium>
+      </medium-list>
+    </release>
+    <release ext:score="100" id="4ec17c32-daca-4c95-ad5e-10fef55bf876">
+      <title>K Is for Kelson</title>
+      <status>Official</status>
+      <text-representation>
+        <language>eng</language>
+        <script>Latn</script>
+      </text-representation>
+      <artist-credit>
+        <name-credit>
+          <artist id="9f9953f0-68bb-4ce3-aace-2f44c87f0aa3">
+            <name>Bibio</name>
+            <sort-name>Bibio</sort-name>
+          </artist>
+        </name-credit>
+      </artist-credit>
+      <release-group type="Single" id="abeec470-b316-4795-a2df-4f4e8d7bd5eb"/>
+      <date>2011-05-23</date>
+      <country>GB</country>
+      <asin>B005099E1W</asin>
+      <label-info-list>
+        <label-info>
+          <catalog-number>WAP316D</catalog-number>
+          <label id="46f0f4cd-8aab-4b33-b698-f459faf64190">
+            <name>Warp Records</name>
+          </label>
+        </label-info>
+      </label-info-list>
+      <medium-list count="1">
+        <track-count>4</track-count>
+        <medium>
+          <format>Digital Media</format>
+          <disc-list count="0"/>
+          <track-list count="4"/>
+        </medium>
+      </medium-list>
+    </release>
+    <release ext:score="100" id="4b53cfcc-ae4c-4c5b-9881-ffcee23709b3">
+      <title>T.O.Y.S.</title>
+      <status>Official</status>
+      <text-representation>
+        <language>eng</language>
+        <script>Latn</script>
+      </text-representation>
+      <artist-credit>
+        <name-credit>
+          <artist id="9f9953f0-68bb-4ce3-aace-2f44c87f0aa3">
+            <name>Bibio</name>
+            <sort-name>Bibio</sort-name>
+          </artist>
+        </name-credit>
+      </artist-credit>
+      <release-group type="Single" id="7d0bcfad-54cd-4fde-973c-ff934004a0d1"/>
+      <date>2011-08-01</date>
+      <country>GB</country>
+      <label-info-list>
+        <label-info>
+          <catalog-number>WAP320D</catalog-number>
+          <label id="46f0f4cd-8aab-4b33-b698-f459faf64190">
+            <name>Warp Records</name>
+          </label>
+        </label-info>
+      </label-info-list>
+      <medium-list count="1">
+        <track-count>4</track-count>
+        <medium>
+          <format>Digital Media</format>
+          <disc-list count="0"/>
+          <track-list count="4"/>
+        </medium>
+      </medium-list>
+    </release>
+  </release-list>
+</metadata>
