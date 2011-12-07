@@ -66,7 +66,7 @@ module BrainzReleases
     end
 
     def artist_param
-      mbid ? "arid:#{mbid}" : "artist:#{name}"
+      mbid && mbid != "" ? "arid:#{mbid}" : "artist:#{name}"
     end
 
   end
