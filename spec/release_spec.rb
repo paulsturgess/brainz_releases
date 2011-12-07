@@ -12,7 +12,7 @@ describe BrainzReleases::Release do
     
     it "should set the attributes" do
       @release.mbid.should == "4a46ee61-75b5-4e2b-ac2e-81ef2ccec0f9"
-      @release.artist.should == "Bibio"
+      @release.artist_name.should == "Bibio"
       @release.artist_mbid.should == "9f9953f0-68bb-4ce3-aace-2f44c87f0aa3"
       @release.title.should == "Fi"
       @release.release_type.should == "Album"
@@ -21,6 +21,21 @@ describe BrainzReleases::Release do
       @release.format.should == "CD"
       @release.label.should == "Mush Records"
       @release.country.should == "US"
+    end
+    
+    it "should be able to list the attributes as a hash" do
+      @release.attributes.should == {
+        :mbid => "4a46ee61-75b5-4e2b-ac2e-81ef2ccec0f9", 
+        :artist_name => "Bibio",
+        :artist_mbid => "9f9953f0-68bb-4ce3-aace-2f44c87f0aa3",
+        :title => "Fi",
+        :release_type => "Album",
+        :date_available => "2005-02-08",
+        :track_count => "17",
+        :format => "CD",
+        :label => "Mush Records",
+        :country => "US"
+      }
     end
     
   end
