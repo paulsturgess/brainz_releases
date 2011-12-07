@@ -2,7 +2,7 @@ require 'nokogiri'
 require 'open-uri'
 require 'net/http'
 require 'CGI'
-require 'Date'
+require 'Date' unless defined?(Date) == "constant"
 
 module BrainzReleases
   class Search
