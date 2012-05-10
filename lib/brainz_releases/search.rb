@@ -1,7 +1,7 @@
 require 'nokogiri'
 require 'open-uri'
 require 'net/http'
-require 'CGI'
+require 'cgi'
 require 'Date' unless defined?(Date) == "constant"
 
 module BrainzReleases
