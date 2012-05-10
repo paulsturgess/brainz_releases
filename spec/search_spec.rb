@@ -145,7 +145,7 @@ describe BrainzReleases::Search do
     end
 
     it "should include the releases returned by releases_xml" do
-      @brainz_search.results.map(&:artist).should include("Bibio")
+      @brainz_search.results.map(&:artist_name).should include("Bibio")
       @brainz_search.results.map(&:title).should include("Mind Bokeh")
       @brainz_search.results.first.should be_kind_of(BrainzReleases::Release)
       @brainz_search.results.length.should == 20
