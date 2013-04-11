@@ -17,7 +17,7 @@ describe BrainzReleases::Search do
           search.mbid = "123"
         end
       end
-      
+
       it "should initialize the user agent" do
         @brainz_search.user_agent.should == "Testing/0.1"
       end
@@ -44,7 +44,7 @@ describe BrainzReleases::Search do
         lambda {BrainzReleases::Search.new { |search| search.user_agent = "Foo"}}.should raise_exception(BrainzReleases::Search::ConfigError)
       end
     end
-    
+
     context "when the user agent is missing" do
       it "should raise an exception" do
         lambda {BrainzReleases::Search.new { |search| search.mbid = "123"}}.should raise_exception(BrainzReleases::Search::ConfigError)
@@ -85,7 +85,7 @@ describe BrainzReleases::Search do
         end
       end
 
-      it "should use the mbid" do        
+      it "should use the mbid" do
         @brainz_search.uri.should == URI.parse("http://musicbrainz.org/ws/2/release/?type=xml&query=arid%3A123+AND+date%3A%5B2011-01-01+TO+2011-05-05%5D")
       end
 
