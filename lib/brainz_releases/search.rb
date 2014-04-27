@@ -46,7 +46,7 @@ module BrainzReleases
       when "200"
         @releases_xml = Nokogiri::XML(response.body)
       else
-        raise ResponseError, "There is a problem accessing the Music Brainz api. Response code: #{response.code} \n #{response.inspect}"
+        raise ResponseError, "There is a problem accessing the Music Brainz api. Response code: #{response.code} \n request_uri: #{uri.request_uri} \n #{response.inspect}"
       end
     end
 
