@@ -86,7 +86,7 @@ describe BrainzReleases::Search do
       end
 
       it "should use the mbid" do
-        @brainz_search.uri.should == URI.parse("http://musicbrainz.org/ws/2/release/?type=xml&query=arid%3A123+AND+date%3A%5B2011-01-01+TO+2011-05-05%5D")
+        @brainz_search.uri.should == URI.parse("http://musicbrainz.org/ws/2/release/?query=arid%3A123+AND+date%3A%5B2011-01-01+TO+2011-05-05%5D")
       end
 
     end
@@ -113,7 +113,7 @@ describe BrainzReleases::Search do
         @brainz_search.stub(:uri){URI.parse("http://example.com")}
       end
       it "should call the artists url with Nokogiri parse to get the xml" do
-        Nokogiri::XML::Document.should_receive(:parse).with(Net::HTTP.get(URI.parse("http://example.com")), nil, nil, 1)
+        Nokogiri::XML::Document.should_receive(:parse).with(Net::HTTP.get(URI.parse("http://example.com")), nil, nil, 2049)
         @brainz_search.releases_xml
       end
       it "should not raise the error message as an exception" do

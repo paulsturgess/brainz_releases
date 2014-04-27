@@ -31,11 +31,11 @@ module BrainzReleases
       @end_date ||= Date.today >> 1
     end
 
-    #http://musicbrainz.org/ws/2/release/?type=xml&query=arid:2ff0dfc6-0542-4bbc-a44a-60605c074ba6
+    #http://musicbrainz.org/ws/2/release/?query=arid:2ff0dfc6-0542-4bbc-a44a-60605c074ba6
 
     # Musicbrainz uri to request releases
     def uri
-      URI.parse("http://musicbrainz.org/ws/2/release/?type=xml&query=#{query}")
+      URI.parse("http://musicbrainz.org/ws/2/release/?query=#{query}")
     end
 
     def releases_xml
